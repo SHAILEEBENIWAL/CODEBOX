@@ -43,6 +43,7 @@ Learning feels like a game — level by level.
 * 🎨 Clean, pixel-inspired UI
 * 🌗 Light / Dark theme support
 * 🚀 Fully deployed & production-ready
+  
 
 ---
 
